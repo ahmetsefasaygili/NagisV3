@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154006384106",
+    "project_id": "nagisv3",
+    "storage_bucket": "nagisv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154006384106:android:6b03002df46e0b1a521693",
+        "android_client_info": {
+          "package_name": "com.example.nagisv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154006384106-bcciohvt96imlkaugafssqsjps54suku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfC8pFtsFFPF-dwhDOPxrJ4aBLSqLm7Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154006384106-bcciohvt96imlkaugafssqsjps54suku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
